@@ -43,6 +43,7 @@
 <a href="https://leetcode.com/Sandeepad3118/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a><br>
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/Sandeepad3118)  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeepad3118) <br>
@@ -59,18 +60,11 @@
 <a href="mailto:sandeepad3118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sandeepad3118@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p> -->
 <br>
-
-
-
-
-
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sandeepad3118)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sandeep-abbu-a2805915b/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sandeep78389600) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=0s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://san-devfolio.netlify.app/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/chiragbaranda)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/unspoken_photographs//) -->
 <br />
-
 *************
-
 <br />
 
 ### - Languages and Tools...
