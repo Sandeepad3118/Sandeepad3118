@@ -2,21 +2,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 <h4>Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
-- 🎓 <h4>tudying Information Science at MSRIT.</h4>
-- ❄️ <h4>Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯</h4>
-- ☁️ <h4>Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
-- 🏃  <h4>Books :books: | Music :headphones:.</h4>
+<h4>- 🤔 Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
+ <h4>- 🎓tudying Information Science at MSRIT.</h4>
+<h4>- ❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯</h4>
+ <h4>- ☁️Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
+<h4>- 🏃  Books :books: | Music :headphones:.</h4>
 
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Material UI | ReactJS | Graph QL
-- 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | VsCode | npm | Open-Source :fire:
-- 🖥 &nbsp; Illustrator
+<h4>- 💻 &nbsp; Python | Java | C | MATLAB</h4>
+<h4>- 🌐 &nbsp; HTML | CSS | JavaScript | Material UI | ReactJS | Graph QL</h4>
+<h4>- 🛢 &nbsp; MySQL | MongoDB | Firebase</h4>
+<h4>- 🔧 &nbsp; Git | VsCode | npm | Open-Source :fire:</h4>
+<h4>- 🖥 &nbsp; Illustrator</h4>
 
 <br/>
 
@@ -31,9 +31,9 @@
 <a href="https://t.me/@Devlp_san">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/hemant.gz/">
+<!--<a href="https://www.instagram.com/hemant.gz/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>-->
 <a href="https://www.reddit.com/user/Difficult_Giraffe58">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
