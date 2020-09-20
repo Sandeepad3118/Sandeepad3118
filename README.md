@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Java | C | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Material UI | ReactJS | Graph QL
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | VsCode
+- 🔧 &nbsp; Git | VsCode | Open-Source :fire:
 - 🖥 &nbsp; Illustrator
 
 <br/>
