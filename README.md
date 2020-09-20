@@ -6,7 +6,7 @@
 ->🎓 Information Science student @ MSRIT.<br>
 ->❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯<br>
 ->☁️ Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br>
-->🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>.</h4>
+->🥀 Learning GraphQl , NextJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><!-- <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>--></h4>
 
 <!-- 
 <h4>- 🏃  Books :books: | Music :headphones:.</h4>
