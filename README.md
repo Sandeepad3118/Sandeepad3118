@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Information Science at MSRIT.
 - 💼 &nbsp; Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ **Hobbies :** Books :books: | Music :headphones:s.
+- ✍️ &nbsp; Books :books: | Music :headphones:s.
 
 <h3>🛠 Tech Stack</h3>
 
