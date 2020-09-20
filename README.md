@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me ...</h3>
 
-<h4>-🤔 Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
-<h4>-🎓 Information Science student @ MSRIT.</h4>
-<h4>- ❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯</h4>
- <h4>- ☁️Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
+<h4>-🤔 Exploring new technologies and developing software solutions and quick hacks.🚀<br>
+-🎓 Information Science student @ MSRIT.<br>
+- ❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯<br>
+ - ☁️Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
 
 
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
