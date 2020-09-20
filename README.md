@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 #### Exploring new technologies and developing software solutions and quick hacks.🚀
+- 🤔 <h4>Exploring new technologies and developing software solutions and quick hacks.</h4>🚀
 - 🎓 &nbsp; Studying Information Science at MSRIT.
 - ❄️ &nbsp; Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯
 - ☁️ &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
