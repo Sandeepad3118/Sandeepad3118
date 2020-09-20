@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Sandeep.👋</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me ...</h3>
 
 <h4>-🤔 Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
 <h4>-🎓 Studying Information Science at MSRIT.</h4>
@@ -43,6 +43,9 @@
 <a href="https://leetcode.com/Sandeepad3118/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+![Profile views](https://gpvc.arturio.dev/Sandeepad3118)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeepad3118) 
+<img src="https://github-readme-stats.vercel.app/api?username=Sandeepad3118&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+⭐️ From [**San@3118**](https://github.com/Sandeepad3118)
 <!--<a href="https://www.codechef.com/users/hemant_x">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>-->
@@ -54,9 +57,6 @@
 </p> -->
 <br>
 
-⭐️ From [**San@3118**](https://github.com/Sandeepad3118)
-![Profile views](https://gpvc.arturio.dev/Sandeepad3118)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeepad3118) 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeepad3118&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
@@ -69,6 +69,7 @@
 *************
 
 <br />
+
 ### - Languages and Tools...
 
 <p align="center">
