@@ -15,12 +15,8 @@
 <h4>- 🛢 &nbsp; MySQL | MongoDB | Firebase</h4>
 <h4>- 🔧 &nbsp; Git | VsCode | npm | Open-Source :fire:</h4>
 <h4>- 🖥 &nbsp; Illustrator</h4> -->
-
-<br/>
 <br />
-
 *************
-
 <br />
 
 
@@ -57,14 +53,8 @@
 <br>
 
 ⭐️ From [**San@3118**](https://github.com/Sandeepad3118)
-
-
-
-
 ![Profile views](https://gpvc.arturio.dev/Sandeepad3118)  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sandeepad3118) 
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sandeepad3118&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
@@ -75,9 +65,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/unspoken_photographs//) -->
 <br>
 <br />
-
 *************
-
 <br />
 ### - Languages and Tools...
 
