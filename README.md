@@ -20,7 +20,7 @@
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+#### - 💬 Connect? Here 👇
 
 <a href="https://twitter.com/sandeep78389600/">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
