@@ -22,13 +22,13 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://twitter.com/8bithemant">
+<a href="https://twitter.com/sandeep78389600/">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/sandeep-abbu-a2805915b/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ihemantjoshi">
+<a href="https://t.me/@Devlp_san">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/hemant.gz/">
@@ -44,11 +44,11 @@
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br>
-<p align="center">
+<!--p align="center">
 <a href="https://www.linkedin.com/in/sandeep-abbu-a2805915b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sandeep%20Abbu%20-blue?style=flat-square&logo=linkedin"></a>
- <!-- <a href="https://san-devfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-san-devfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a> -->
+ <a href="https://san-devfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-san-devfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a> 
 <a href="mailto:sandeepad3118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sandeepad3118@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</p> -->
 
 ⭐️ From [San@3118](https://github.com/Sandeepad3118)
 
