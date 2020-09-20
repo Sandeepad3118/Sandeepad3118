@@ -34,21 +34,22 @@
 <a href="https://www.instagram.com/hemant.gz/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user//">
+<a href="https://www.reddit.com/user/Difficult_Giraffe58">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com//">
+<a href="https://leetcode.com/Sandeepad3118/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/hemant_x">
+<!--<a href="https://www.codechef.com/users/hemant_x">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+</a>-->
 <br>
 <!--p align="center">
 <a href="https://www.linkedin.com/in/sandeep-abbu-a2805915b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sandeep%20Abbu%20-blue?style=flat-square&logo=linkedin"></a>
  <a href="https://san-devfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-san-devfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a> 
 <a href="mailto:sandeepad3118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sandeepad3118@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p> -->
+<br>
 
 ⭐️ From [San@3118](https://github.com/Sandeepad3118)
 
