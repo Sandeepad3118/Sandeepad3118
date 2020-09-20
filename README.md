@@ -1,8 +1,8 @@
-###<h2> Hey there! I'm Sandeep.👋</h2>
+<h2> Hey there! I'm Sandeep.👋</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.🚀
+- 🤔 #### Exploring new technologies and developing software solutions and quick hacks.🚀
 - 🎓 &nbsp; Studying Information Science at MSRIT.
 - ❄️ &nbsp; Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯
 - ☁️ &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
