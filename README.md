@@ -6,11 +6,13 @@
 <h4>-🎓 Information Science student @ MSRIT.</h4>
 <h4>- ❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯</h4>
  <h4>- ☁️Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
-<h4>- 🏃  Books :books: | Music :headphones:.</h4>
+
 
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
 
-<!-- <h3>🛠 Tech Stack</h3>h4>- 💻 &nbsp; Python | Java | C | MATLAB</h4>
+<!-- 
+<h4>- 🏃  Books :books: | Music :headphones:.</h4>
+<h3>🛠 Tech Stack</h3>h4>- 💻 &nbsp; Python | Java | C | MATLAB</h4>
 <h4>- 🌐 &nbsp; HTML | CSS | JavaScript | Material UI | ReactJS | Graph QL</h4>
 <h4>- 🛢 &nbsp; MySQL | MongoDB | Firebase</h4>
 <h4>- 🔧 &nbsp; Git | VsCode | npm | Open-Source :fire:</h4>
@@ -64,7 +66,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/chiragbaranda)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/unspoken_photographs//) -->
 <br />
+
 *************
+
 <br />
 
 ### - Languages and Tools...
