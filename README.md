@@ -6,14 +6,14 @@
 - 🎓 &nbsp; Studying Information Science at MSRIT.
 - ❄️ &nbsp; Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯
 - ☁️ &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 🏃 &nbsp; Books :books: | Music :headphones:s.
+- 🏃 &nbsp; Books :books: | Music :headphones:.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Material UI | ReactJS | Graph QL
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | VsCode | Open-Source :fire:
+- 🔧 &nbsp; Git | VsCode | npm | Open-Source :fire:
 - 🖥 &nbsp; Illustrator
 
 <br/>
