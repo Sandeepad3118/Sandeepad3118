@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<h4>. 🤔 Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
-<h4>. 🎓 Studying Information Science at MSRIT.</h4>
+<h4>-🤔 Exploring new technologies and developing software solutions and quick hacks.🚀</h4>
+<h4>-🎓 Studying Information Science at MSRIT.</h4>
 <h4>- ❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯</h4>
  <h4>- ☁️Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
 <h4>- 🏃  Books :books: | Music :headphones:.</h4>
@@ -51,7 +51,7 @@
 </p> -->
 <br>
 
-⭐️ From [San@3118](https://github.com/Sandeepad3118)
+⭐️ From [**San@3118**](https://github.com/Sandeepad3118)
 
 
 
