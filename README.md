@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me ...</h3>
 
-<h4>->🤔 Exploring new technologies and developing software solutions and quick hacks.🚀<br>
+<h4>->Full stack developer with expertise in JavaScript and React. On my radar: #travel #technology #sports #health<br>
 ->🎓 Information Science student @ MSRIT.<br>
 ->❄️ Learning React & capable of developing dynamic, fast and modern single/multi-page web applications.💯<br>
 ->☁️ Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br>
