@@ -5,6 +5,7 @@
 <h4>->Full stack developer with expertise in JavaScript and React. On my radar: #travel #technology #sports #health<br>
 ->🎓 Information Science student @ MSRIT.<br>
 ->☁️ Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br>
+->Working @ Infinite Computer Solutions
 ->🥀 Learning GraphQl , NextJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><!-- <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>--></h4>
 
 <!-- 
