@@ -34,9 +34,9 @@ Working @ Infinite Computer Solutions as an Devops Engineer<br>
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/kubernetes.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<!--  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/kubernetes.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/docker.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/ansible.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/ansible.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
 
 </p>
 <br />
