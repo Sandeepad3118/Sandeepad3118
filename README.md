@@ -5,7 +5,8 @@
 <h4>->Full stack developer with expertise in JavaScript and React. On my radar: #travel #technology #sports #health<br>
 ->🎓 Information Science student @ MSRIT.<br>
 ->☁️ Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br>
-->Working @ Infinite Computer Solutions.<br>
+-> ![image](https://user-images.githubusercontent.com/48762505/125154184-6f9eca00-e176-11eb-9f10-ef2f16681de3.png)
+   Working @ Infinite Computer Solutions as an Devops Engineer<br>
 
 
 <!-- 
